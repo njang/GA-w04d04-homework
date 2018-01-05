@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "Homework solution using expressJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njang/GA-w04d04-homework.git"
+  },
+  "author": "Neo Jang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njang/GA-w04d04-homework/issues"
+  },
+  "homepage": "https://github.com/njang/GA-w04d04-homework#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
